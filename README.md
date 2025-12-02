@@ -1,6 +1,6 @@
 # PiBlock
 
-PI BLOCK – Servidors de Minecraft per Instituts
+[PI BLOCK](https://piblock.cat) – Servidors de Minecraft per Instituts
 
 Context
 
