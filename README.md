@@ -6,7 +6,7 @@ Context
 
 Molts instituts volen utilitzar Minecraft com a eina educativa o per activitats i competicions, però posar un servidor pot ser complicat: cal hardware, configuracions i manteniment. PI BLOCK vol solucionar això creant una xarxa de servidors fàcil d’instal·lar i gestionar, amb Raspberry Pi 5 per a cada institut i un servidor central per als esdeveniments grans.
 
-# AA Abast
+# A Abast
 
 -Inclou la configuració de les Raspberry Pi per executar Minecraft de manera plug-and-play.
 
@@ -18,7 +18,7 @@ Molts instituts volen utilitzar Minecraft com a eina educativa o per activitats 
 
 -No inclou: desenvolupament de plugins específics ni suport tècnic personalitzat per cada institut.
 
-# AA Característiques principals
+# A Característiques principals
 
 -Instal·lació fàcil i ràpida.
 
@@ -28,7 +28,7 @@ Molts instituts volen utilitzar Minecraft com a eina educativa o per activitats 
 
 -Escalable segons les necessitats de l’institut.
 
-# AA Etapes del projecte
+# A Etapes del projecte
 
 -Preparar les Raspberry Pi amb Minecraft i configuració bàsica.
 
