@@ -2,36 +2,40 @@
 
 PI BLOCK – Servidors de Minecraft per Instituts
 
-Què és?
-Una xarxa de servidors de Minecraft amb Raspberry Pi 5 per a cada institut i un servidor central per als esdeveniments grans. Tot pensat per ser fàcil, ràpid i escalable.
-
-Com funciona?
-
--Plug-and-Play: Només connectes la Raspberry Pi i ja funciona.
-
--Fàcil de gestionar: Panell web per veure els servidors, jugadors i executar comandes.
-
--Escalable: Afegir més Raspberry Pi segons necessitat.
-
--Bon rendiment: Servidors optimitzats i central per a esdeveniments grans.
-
-Etapes principals:
-
--Configurar les Raspberry Pi amb Minecraft i plugins bàsics.
-
--Configurar el servidor central per coordinar tot i fer backups.
-
--Crear el panell web per gestionar i monitoritzar els servidors.
-
-Avantatges:
-
-Ideal per activitats i competicions a l’institut.
-
-Instal·lació senzilla sense necessitat de tècnic.
-
-Permet començar petit i créixer segons la demanda.
-
 Context
+
+Molts instituts volen utilitzar Minecraft com a eina educativa o per activitats i competicions, però posar un servidor pot ser complicat: cal hardware, configuracions i manteniment. PI BLOCK vol solucionar això creant una xarxa de servidors fàcil d’instal·lar i gestionar, amb Raspberry Pi 5 per a cada institut i un servidor central per als esdeveniments grans.
+
+#AA Abast
+
+-Inclou la configuració de les Raspberry Pi per executar Minecraft de manera plug-and-play.
+
+-Configuració d’un servidor central amb més recursos per coordinar els servidors petits i organitzar esdeveniments grans.
+
+-Creació d’un panell web per veure l’estat dels servidors, controlar comandes i monitoritzar jugadors i recursos.
+
+-Escalabilitat: es poden afegir més Raspberry Pi segons la demanda.
+
+-No inclou: desenvolupament de plugins específics ni suport tècnic personalitzat per cada institut.
+
+#AA Característiques principals
+
+-Instal·lació fàcil i ràpida.
+
+-Bon rendiment i optimització dels servidors.
+
+-Gestió senzilla via panell web.
+
+-Escalable segons les necessitats de l’institut.
+
+#AA Etapes del projecte
+
+-Preparar les Raspberry Pi amb Minecraft i configuració bàsica.
+
+-Configurar el servidor central per coordinar i fer backups.
+
+-Crear el panell web per monitoritzar i gestionar tots els servidors.
+
 ![Imagte Definició](img/def.png)
 
 
