@@ -1,4 +1,4 @@
-# [PiBlock] (http://piblock.cat/)
+# [PiBlock](http://piblock.cat/)
 
 [PI BLOCK](http://piblock.cat/) – Servidors de Minecraft per Instituts
 
